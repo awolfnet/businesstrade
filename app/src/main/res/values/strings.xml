@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">同城建材</string>
+
+    <!-- activity string -->
+    <string name="BuyHistoryActivity">activity_buyhistory</string>
+    <string name="CargoActivity">activity_cargo</string>
+    <string name="ChatActivity">activity_chat</string>
+    <string name="CityActivity">activity_city</string>
+    <string name="FavoriteActivity">activity_favorite</string>
+    <string name="LoginActivity">activity_login</string>
+    <string name="MainActivity">activity_main</string>
+    <string name="MarketActivity">activity_market</string>
+    <string name="MessageActivity">activity_message</string>
+    <string name="MineActivity">activity_mine</string>
+    <string name="NewCargoOrderActivity">activity_newcargoorder</string>
+    <string name="NewOrderActivity">activity_neworder</string>
+    <string name="RegisterActivity">activity_register</string>
+    <string name="SellHistoryActivity">activity_sellhistory</string>
+    <string name="SplashActivity">activity_splash</string>
+    <string name="ShareActivity">activity_share</string>
+    <string name="PublishActivity">activity_publish</string>
+
+
+    <string name="HTTP_ServerException">服务器异常</string>
+
+    <string name="et_account_hint">手机号</string>
+    <string name="et_password_hint">密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="forget_password">忘记密码?</string>
+
+    <string name="city_liaoning">辽宁省</string>
+    <string name="city_jilin">吉林省</string>
+    <string name="city_heilongjing">黑龙江省</string>
+
+    <string name="market_metal">钢材市场</string>
+    <string name="market_stone">石材市场</string>
+    <string name="market_wood">木材市场</string>
+
+    <string name="cargo">运输</string>
+    <string name="mine">我的</string>
+
+    <string name="no_message">暂无最新消息</string>
+
+    <string-array name="array_publish_type">
+        <item>我要求购</item>
+        <item>我要出售</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
